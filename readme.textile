@@ -1,6 +1,6 @@
-h1. R Script that Plots Emission Frequency vs. RNA Concentration and Finds the Most-Absorbed Frequency ('Lambda Max') for Fluorescence Spectroscopy Data
+h1. R Script that Plots Emission Frequency vs. RNA Concentration & Finds Lambda Max for Fluorescence Spectroscopy Data
 
-This is a very short R script I wrote so my fellow chemistry research assistants and I could quickly visualize our data.
+This is a very short R script I wrote so my fellow chemistry research assistants and I could quickly visualize our data and find the most-absorbed frequency, or 'Lambda Max' for each trial.  This script let us quickly inspect our data before continuing with further analysis.
 
 <h3> Files Included in this Repo </h3>
 ## the R script 
